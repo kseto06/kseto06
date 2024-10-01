@@ -14,6 +14,6 @@ Here's a timeline of my journey so far:
 - Dec 2023 - Apr 2024: Joined my high school's Computer Science Club as a Teaching Executive, helping with activities and CCC preparation.
 - Feb 2024 - Jun 2024: Took Grade 12 CS Course, where I developed a socket-networked Mortal Kombat game, which is the largest game development focused project that I have ever worked on.
 - Aug 2024: Began my journey in ML/AI, taking Andrew Ng's Machine Learning Specialization.
-- Sep 2024: Developed my first ML project, OtakuNet, a content-based recommender system to recommend animes based on liked genres with a neural network made from scratch.
+- Sep 2024: Developed my first ML project, OtakuNet, a content-based recommender system to recommend animes based on the user's liked genres with a neural network framework made from scratch.
 
 I always like to learn new things as I continue this coding journey in the future!
