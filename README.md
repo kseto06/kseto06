@@ -1,5 +1,7 @@
 ## Hi, I'm Kaden.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kseto06&label=Profile%20views&color=0e75b6&style=flat-square" alt="kseto06" /> </p>
+
 I'm a first-year Engineering Science student at University of Toronto.
 
 I started programming at the beginning of Grade 11. At that time, I was still exploring potential areas that I was interested in and trying to set goals for myself.
