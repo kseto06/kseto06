@@ -8,8 +8,8 @@ Some projects I've worked on :)
   <img src="recsys_demo.gif" width="500">
   <img src="mortalkombat.gif" width="500">
   <img src = "MeepMeep.gif" width=450>
-  <img src = "BallisticPendulum.gif" width=600>
   <img src = "honami_spotify_demo.gif" width=500>
+  <img src = "BallisticPendulum.gif" width=700>
 </div>
 
 ![Kaden's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kseto06&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
