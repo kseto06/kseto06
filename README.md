@@ -6,9 +6,9 @@ Some projects I've worked on :)
 
 <div style="display: flex; justify-content: space-around;">
   <img src="recsys_demo.gif" width="400">
-  <img src="mortalkombat.gif" width="400">
-  <img src = "MeepMeep.gif" width=200>
-  <img src = "honami_spotify_demo.gif" width=350>
+  <img src="mortalkombat.gif" width="450">
+  <img src = "MeepMeep.gif" width=300>
+  <img src = "honami_spotify_demo.gif" width=400>
   <img src = "BallisticPendulum.gif" width=400>
 </div>
 
