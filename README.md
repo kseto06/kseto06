@@ -8,7 +8,7 @@ Some projects I've worked on :)
   <img src="recsys_demo.gif" width="500">
   <img src="mortalkombat.gif" width="500">
   <img src = "MeepMeep.gif" width=450>
-  <img src = "BallisticPendulum.gif" width=700>
+  <img src = "BallisticPendulum.gif" width=600>
   <img src = "honami_spotify_demo.gif" width=500>
 </div>
 
