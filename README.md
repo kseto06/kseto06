@@ -5,11 +5,11 @@ Hi! I'm a first-year Engineering Science student at University of Toronto. I'm a
 Some projects I've worked on :) 
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="recsys_demo.gif" width="400">
+  <img src="recsys_demo.gif" width="500">
   <img src="mortalkombat.gif" width="500">
   <img src = "MeepMeep.gif" width=450>
-  <img src = "BallisticPendulum.gif" width=500>
-  <img src = "honami_spotify_demo.gif" width=400>
+  <img src = "BallisticPendulum.gif" width=700>
+  <img src = "honami_spotify_demo.gif" width=500>
 </div>
 
 ![Kaden's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kseto06&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
