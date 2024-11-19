@@ -5,8 +5,8 @@ Hi! I'm a first-year Engineering Science student at University of Toronto. I'm a
 Some projects I've worked on :) 
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="recsys_demo.gif" width="400">
-  <img src="mortalkombat.gif" width="450">
+  <img src="recsys_demo.gif" width="500">
+  <img src="mortalkombat.gif" width="500">
   <img src = "MeepMeep.gif" width=300>
   <img src = "honami_spotify_demo.gif" width=400>
   <img src = "BallisticPendulum.gif" width=400>
