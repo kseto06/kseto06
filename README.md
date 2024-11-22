@@ -11,5 +11,3 @@ Hi! I'm a first-year Engineering Science student at University of Toronto. I'm a
 </div>
 
 ![Kaden's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kseto06&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kseto06&langs_count=10)
