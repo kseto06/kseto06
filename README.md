@@ -4,7 +4,7 @@ Hi! I'm a first-year Engineering Science student at University of Toronto. I'm a
 
 <div style="display: flex; justify-content: space-around;">
   <img src="recsys_demo.gif" width="400">
-  <img src="aisquaredv2.gif" width="400">
+  <img src="aisquaredv3.gif" width="400">
   <img src="mortalkombat.gif" width="500">
   <img src = "MeepMeep.gif" width=300>
   <img src = "honami_spotify_demo.gif" width=400>
