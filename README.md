@@ -6,9 +6,9 @@ Hi! I'm a first-year Engineering Science student at University of Toronto. I'm a
   <img src="recsys_demo.gif" width="400">
   <img src="aisquaredv3.gif" width="400">
   <img src="cyclist.gif" width="500">
-  <img src = "MeepMeep.gif" width=300>
+  <img src="MeepMeep.gif" width=300>
+  <img src="innerworlds.gif" width=400>
   <img src="mortalkombat.gif" width="400">
-  <img src = "honami_spotify_demo.gif" width=400>
 </div>
 
 ![Kaden's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kseto06&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
