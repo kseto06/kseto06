@@ -7,7 +7,7 @@ Hi! I'm a first-year Engineering Science student at University of Toronto. I'm a
   <img src="aisquaredv3.gif" width="400">
   <img src="innerworlds.gif" width=500>
   <img src="MeepMeep.gif" width=300>
-  <img src="cyclist.gif" width="400">
+  <img src="aegis-compressed.gif" width="400">
   <img src="mortalkombat.gif" width="400">
 </div>
 
