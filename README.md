@@ -9,12 +9,12 @@ Previously, I interned at BMO as a Software Developer in Summer 2025. In first y
 In high school, I served as the Lead Programmer for my [high school's Robotics Team](https://titansrobotics.odoo.com/) and as a Backend Developer for my [high school's App Development Team](https://app.staugustinechs.ca/).
 
 <div style="display: flex; justify-content: space-around;">
+  <img src="neurostrike.gif" width="400">
+  <img src="aisquaredv4.gif" width="400">
   <img src="recsys_demo.gif" width="400">
-  <img src="aisquaredv3.gif" width="400">
+  <img src="aegis-compressed.gif" width="400">
   <img src="innerworlds.gif" width=500>
   <img src="MeepMeep.gif" width=300>
-  <img src="aegis-compressed.gif" width="400">
-  <img src="mortalkombat.gif" width="400">
 </div>
 
 ![Kaden's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kseto06&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
