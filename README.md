@@ -18,5 +18,8 @@ In high school, I served as the **Lead Programmer** for my [high school's Roboti
 </div>
 
 ![Kaden's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kseto06&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kseto06)](https://github.com/kseto06/github-readme-stats)
+<div align="center">
+  <img src="https://github-stats-private-2.vercel.app/api/top-langs/?username=kseto06&layout=compact&theme=tokyonight&langs_count=8&hide=TeX,BibTeX%20Style,HTML">
+</div>
+
 
