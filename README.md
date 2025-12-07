@@ -17,9 +17,10 @@ In high school, I served as the **Lead Programmer** for my [high school's Roboti
   <img src="MeepMeep.gif" width=300>
 </div>
 
-![Kaden's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kseto06&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-<div align="center">
-  <img src="https://github-stats-private-2.vercel.app/api/top-langs/?username=kseto06&layout=compact&theme=tokyonight&langs_count=8&hide=TeX,BibTeX%20Style,HTML">
+<div align="center" style="display:flex; gap: 10px; justify-content:center;">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kseto06&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img src="https://github-stats-private-2.vercel.app/api/top-langs/?username=kseto06&layout=compact&theme=tokyonight&langs_count=8&hide=TeX,BibTeX%20Style,HTML"/>
 </div>
+
 
 
