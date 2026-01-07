@@ -11,7 +11,7 @@ In high school, I served as the **Lead Programmer** for my [high school's Roboti
 <div style="display: flex; justify-content: space-around;">
   <img src="neurostrike.gif" width="400">
   <img src="aisquaredv4.gif" width="400">
-  <video src="continuum_demo.mp4" autoplay loop muted width="400"></video>
+  <img src="continuum_demo.gif" width="400">
   <img src="aegis-compressed.gif" width="400">
   <img src="innerworlds.gif" width=500>
   <img src="MeepMeep.gif" width=300>
