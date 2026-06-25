@@ -8,7 +8,7 @@ Previously, I interned at **BMO** as a **Software Developer**, developing automa
 
 In second year, I served as **VP Academics** in University of Toronto's Machine Intelligence Student Team (UTMIST), [UofT's largest undergraduate machine learning team](https://utmist.ca), where I led the organization of UTMIST's academic workshops, events, and programs. 
 
-In first year, I was a **Reinforcement Learning Team Lead** in UTMIST, where I led the development of [UTMIST's first-ever tournament](https://utmist.ca/ai2) and subsequently produced a [technical paper](https://cucai.ca/2025_proceedings.pdf#page=28), submitted to CUCAI. I also led the **Application Review Committee** of [GenAI Genesis 2025](https://genaigenesis.ca/), Canada's largest AI hackathon.
+In first year, I was a **Reinforcement Learning Team Lead** in UTMIST, where I led the development of [UTMIST's first-ever tournament](https://utmist.ca/ai2), Canada's largest RL tournament (400+ participants), and subsequently produced a [technical paper](https://cucai.ca/2025_proceedings.pdf#page=28) which was submitted to CUCAI. I also led the **Application Review Committee** of [GenAI Genesis 2025](https://genaigenesis.ca/), Canada's largest AI hackathon.
 
 <br>
 
