@@ -10,8 +10,6 @@ In second year, I served as **VP Academics** in University of Toronto's Machine 
 
 In first year, I was a **Reinforcement Learning Team Lead** in UTMIST, where I led the development of [UTMIST's first-ever tournament](https://utmist.ca/ai2), Canada's largest RL tournament (400+ participants), and subsequently produced a [technical paper](https://cucai.ca/2025_proceedings.pdf#page=28) which was submitted to CUCAI. I also led the **Application Review Committee** of [GenAI Genesis 2025](https://genaigenesis.ca/), Canada's largest AI hackathon.
 
-<br>
-
 In high school, I served as the **Lead Programmer** for my [high school's Robotics Team](https://titansrobotics.odoo.com/) and as a **Backend Developer** for my [high school's App Development Team](https://app.staugustinechs.ca/).
 
 <div style="display: flex; justify-content: space-around;">
