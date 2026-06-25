@@ -4,7 +4,7 @@
 
 I'm Kaden, a 2nd year [Engineering Science](https://engsci.utoronto.ca/program/what-is-engsci/), [Machine Intelligence](https://engsci.utoronto.ca/program/majors/machine-intelligence/) student at University of Toronto passionate about machine learning and AI, with a focus in reinforcement learning. 
 
-Currently, I'm working at [Kinaxis](https://www.kinaxis.com/en) on the Risk Intelligence team as an **AI Software Engineer**, where I'm developing ML/AI and software solutions for real-time detection and mitigation of external disruptions across supply chain management workflows. I'm also a **Founding ML Engineer** for a Stealth Startup, where I work on policy and behaviour optimzation of AI agents in custom multi-agent RL environments.
+Currently, I'm working at [Kinaxis](https://www.kinaxis.com/en) on the Risk Intelligence team as an **AI Software Engineer**, where I'm developing ML/AI and software solutions for real-time detection and mitigation of external disruptions across supply chain management workflows. I'm also a **Founding ML Engineer** for a Stealth Startup, where I work on policy and behaviour optimization of AI agents in custom multi-agent RL environments.
 
 Previously, I interned at **BMO** as a **Software Developer**, developing automation scripts that support and optimized efficiency of AWS service deployments for their AWS data warehousing initiative. 
 
